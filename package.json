@@ -4,12 +4,15 @@
   "description": "+ *Jest* for unit testing in JavaScript.",
   "main": "index.js",
   "scripts": {
-    "test": "echo \"Error: no test specified\" && exit 1"
+    "test": "jest"
   },
   "keywords": [],
   "author": "Cesario Nivar <ing.cesarionivar@gmail.com>",
   "license": "MIT",
   "devDependencies": {
     "jest": "^26.6.3"
+  },
+  "dependencies": {
+    "axios": "^0.21.1"
   }
 }
