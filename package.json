@@ -4,7 +4,8 @@
   "description": "+ *Jest* for unit testing in JavaScript.",
   "main": "index.js",
   "scripts": {
-    "test": "jest"
+    "test": "jest",
+    "testwatch": "jest --watchAll"
   },
   "keywords": [],
   "author": "Cesario Nivar <ing.cesarionivar@gmail.com>",
